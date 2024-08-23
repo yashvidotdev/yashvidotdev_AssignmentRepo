@@ -16,8 +16,8 @@
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/YourGitHubUsername/YourGitHubUsername_AssignmentRepo.git
-    cd YourGitHubUsername_AssignmentRepo
+    git clone https://github.com/yashvidotdev/yashvidotdev_AssignmentRepo.git
+    cd Yashvidotdev_AssignmentRepo
     ```
 
 2. **Install Dependencies** (If using a framework like Truffle or Hardhat)
